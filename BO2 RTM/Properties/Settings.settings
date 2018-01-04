@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BO2_RTM.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="defaultip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168</Value>
+    </Setting>
+    <Setting Name="autoUpdate" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="backgroundColor1" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">20, 20, 20</Value>
+    </Setting>
+    <Setting Name="backgroundColor2" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">40, 40, 40</Value>
+    </Setting>
+    <Setting Name="tabColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">60, 60, 60</Value>
+    </Setting>
+    <Setting Name="accentColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">192, 0, 0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
